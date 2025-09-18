@@ -30,7 +30,7 @@ Here’s a clean template you can start with:
 - 🌱 I’m currently learning **[your current skills/tech]**
 - 👯 I’m looking to collaborate on **[projects or areas of interest]**
 - 💬 Ask me about **[topics you’re confident in]**
-- 📫 Reach me at: **[your email or socials]**
+- 📫 Reach me at:jedielandallo125@gmail.com
 
 ---
 
