@@ -1,4 +1,4 @@
-# Jediel_andalloGot it 👍 Let’s build you a GitHub Profile README step by step.
+# Jediel_andalloGot it  Let’s build you a GitHub Profile README step by step.
 
 1. Create the Special Repository
 
