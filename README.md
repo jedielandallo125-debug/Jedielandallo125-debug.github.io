@@ -1,31 +1,7 @@
 # Jediel_andalloGot it  Let’s build you a GitHub Profile README step by step.
 
-1. Create the Special Repository
 
-1. Go to GitHub and log in.
-
-
-2. Create a new repository with the exact same name as your username.
-
-Example: if your username is JayCabigas, then the repo must be JayCabigas.
-
-
-
-3. Make it public and check “Add a README.md”.
-
-
-
-This README will automatically show up on your GitHub profile.
-
-
----
-
-2. Structure of Your README
-
-Here’s a clean template you can start with:
-
-# Hi there 👋, I'm [Your Name]
-
+# Hi there 👋, I'm Jediel Andalli
 ## 🚀 About Me
 - I love playing online games like
 - VALORANT
