@@ -27,9 +27,10 @@ Here’s a clean template you can start with:
 # Hi there 👋, I'm [Your Name]
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[your current skills/tech]**
-- 👯 I’m looking to collaborate on **[projects or areas of interest]**
-- 💬 Ask me about **[topics you’re confident in]**
+- I love playing online games like
+- VALORANT
+- roblox
+- mobile legend
 - 📫 Reach me at:jedielandallo125@gmail.com
 
 ---
@@ -48,12 +49,6 @@ Here’s a clean template you can start with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
----
-
-## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio Website](https://yourwebsite.com)
 
 
 ---
