@@ -1,8 +1,7 @@
 # Jediel_andalloGot https://jedielandallo125-debug.github.io/
 
 
-# Hi there 👋, I'm Jediel Andalli
-## 🚀 About Me
+https://jedielandallo125-debug.github.io/
 - I love playing online games like
 - VALORANT
 - roblox
