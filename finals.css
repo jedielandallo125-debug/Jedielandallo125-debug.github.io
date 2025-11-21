@@ -81,6 +81,22 @@ body.theme .layout {
   color: var(--accent);
 }
 
+.profile-pic {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;       /* makes the image fit nicely */
+  border-radius: 50%;      /* makes it round */
+  border: 4px solid var(--accent);  /* optional purple border */
+  margin-bottom: 20px;
+}
+
+.description {
+  font-size: 18px;
+  max-width: 500px;
+  margin: 0 auto;
+  color: var(--muted);
+}
+
 
 
 
@@ -126,6 +142,7 @@ body.theme .layout {
 
 /* small utilities */
 code{background:rgba(255,255,255,0.02);padding:2px 6px;border-radius:6px;color:var(--accent-2)}
+
 
 
 /* End of finals.css */
